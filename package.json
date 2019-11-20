@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "date",
+  "version": "1.0.0",
+  "repository": "https://github.com/SvyatoslavKlabukov/js_dependencies_intro1.git",
+  "description": "",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.0"
+  }
+}
